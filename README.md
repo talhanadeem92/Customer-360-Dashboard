@@ -12,8 +12,7 @@ This repository contains the **Customer 360 Dashboard** built using Power BI. Th
 - **Power BI:** Data visualization and dashboard creation.
 - **Data Sources:** CSV and Excel files for sales and customer data.
 
-## File Structure
-Customer360/ ├── Customer360.pbix # Power BI dashboard file ├── Data/ # Datasets used in the project │ ├── sales_data.csv │ ├── customer_details.xlsx ├── Screenshots/ # Screenshots of the dashboard │ ├── Home_Page.png │ ├── Profit_Analysis.png ├── README.md # Project documentation └── LICENSE # Optional license file
+
 
 bash
 Copy
